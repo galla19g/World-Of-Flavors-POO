@@ -1,0 +1,5 @@
+com\restaurant\repository\ProductoRepository.class
+com\restaurant\controller\ProductoController.class
+com\restaurant\model\Producto.class
+com\example\App.class
+com\restaurant\RestaurantApplication.class
